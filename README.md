@@ -24,10 +24,10 @@ This project covers sales, customers, products, orders, payments, returns, and i
 
 7 tables with a small sample dataset:
 
-*customers 
-*products
-*orders 
-*order_items 
-*payments
-*returns
-*inventory
+* customers 
+* products
+* orders 
+* order_items 
+* payments
+* returns
+* inventory
