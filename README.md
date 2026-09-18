@@ -16,7 +16,7 @@ This project covers sales, customers, products, orders, payments, returns, and i
 
 ## Tools
 
-*SQL 
+* SQL 
 * MySQL
 * MySQL Workbench
 
